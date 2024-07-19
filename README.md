@@ -10,5 +10,5 @@ I selected the state using "8x8 BINARY PATTERN".
 ![image](https://github.com/user-attachments/assets/f5cfa5b8-97d5-431e-a1e9-19f15f5cfc0d)
 
 ## References:
-1. [Simulate IoT](https://www.riyas.org/2013/12/online-led-matrix-font-generator-with.html)
-2. [8x8 ONLINE LED HEX/ BINARY PATTERN GENERATOR FOR ARDUINO](https://www.riyas.org/2013/12/online-led-matrix-font-generator-with.html)
+1. [Simulate ESP| wokwi](https://wokwi.com/esp32)
+2. [Online 8x8 LED Bin/Hex Pattern Generator for ARDUINO](https://www.riyas.org/2013/12/online-led-matrix-font-generator-with.html)

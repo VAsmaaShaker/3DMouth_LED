@@ -11,4 +11,4 @@ I selected the state using "8x8 BINARY PATTERN".
 
 ## References:
 1. [Simulate ESP| wokwi](https://wokwi.com/esp32)
-2. [Online 8x8 LED Bin/Hex Pattern Generator for ARDUINO](https://www.riyas.org/2013/12/online-led-matrix-font-generator-with.html)
+2. [Online led matrix font generator with bin and hex codes for ARDUINO](https://www.riyas.org/2013/12/online-led-matrix-font-generator-with.html)

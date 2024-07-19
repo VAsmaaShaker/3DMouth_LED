@@ -1,5 +1,5 @@
 # 3DMouth_LED matrix
-The robot's mouth is designed using an LED matrix, from the electronics track. I used a MAX7219 circuit to display a moving mouth on the matrix.
+The robot's mouth is designed using an LED matrix, from the electronics track. I used a ESP32-S3 to display a moving mouth on the matrix.
 
 It is programmed to display the mouth in two states: open and closed, and the display is constantly updated using functions like "displayTalkingMouth" and "clearDisplay". **(The code for this project is attached to the repository)**
 
